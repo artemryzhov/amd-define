@@ -1,0 +1,25 @@
+{
+  "name": "amd-define",
+  "version": "1.0.0",
+  "description": "define() for node.js. Load dependencies in AMD-style on node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/artemryzhov/amd-define.git"
+  },
+  "keywords": [
+    "define",
+    "amd",
+    "require",
+    "amdefine"
+  ],
+  "author": "Artem Ryzhov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/artemryzhov/amd-define/issues"
+  },
+  "homepage": "https://github.com/artemryzhov/amd-define#readme"
+}
