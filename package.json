@@ -1,6 +1,6 @@
 {
   "name": "amd-define",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "define() for node.js. Load dependencies in AMD-style on node.js",
   "main": "index.js",
   "scripts": {

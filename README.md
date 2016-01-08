@@ -5,10 +5,9 @@ define() for node.js. Load dependencies in AMD-style on node.js
 
 In yourindex.js:
 ```
-var define = require('amd-define')({
+global.define = require('amd-define')({
     ignoreErrors: false
 });
-global.define = define;
 ```
 In yourmodule.js:
 ```
