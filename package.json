@@ -16,7 +16,14 @@
     "require",
     "amdefine"
   ],
-  "author": "Artem Ryzhov",
+  "dependencies": {
+    "underscore": ">=1.5.0"
+  },
+  "author": {
+    "name": "Artem Ryzhov",
+    "email": "ryzhov@kg-r.com",
+    "url": "http://github.com/artemryzhov"
+  },
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/artemryzhov/amd-define/issues"
